@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[2],{10:function(o,n,c){"use strict";c.r(n),n.default=function(){document.body.style.backgroundColor="#555"}}}]);

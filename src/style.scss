@@ -1,0 +1,14 @@
+body{
+  transition: 1s;
+}
+.main{
+  background-color: yellowgreen;
+  width: 200px;
+  height: 200px;
+
+  .sub{
+    background-color: dodgerblue;
+    width: 100px;
+    height: 100px;
+  }
+}
